@@ -8,4 +8,4 @@ Custom Layout for Different websites using uBO
 
 ## Layouts Available
 - Twitter/X
-  
+- Wikipedia
