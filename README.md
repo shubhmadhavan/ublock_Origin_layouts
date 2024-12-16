@@ -6,3 +6,6 @@ Custom Layout for Different websites using uBO
 - Click on the uBO icon → Settitngs → My Filters Tab
 - Append contents of desired css (simple Copy-Paste) to the end of the page
 
+## Layouts Available
+- Twitter/X
+  
