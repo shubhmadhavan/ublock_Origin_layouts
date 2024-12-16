@@ -1,0 +1,54 @@
+en.wikipedia.org##.frb-country-IN.frb-rml-disabled.frb
+en.wikipedia.org##.frb-nag-link
+
+wikipedia.org##html:style(background-color:#FFE1A0 !important;)
+wikipedia.org##body:style(background-color:#FFE1A0 !important;)
+wikipedia.org##[class^="body"]:style(background-color: #FFE1A0 !important;)
+
+wikipedia.org##main:style(background-color:#FFE1A0 !important;)
+wikipedia.org##header:style(background-color:#FFE1A0 !important;)
+
+wikipedia.org##.mw-page-container:style(background-color:#FFE1A0 !important;)
+wikipedia.org##.vector-header-container:style(background-color:#FFE1A0 !important;)
+wikipedia.org##.vector-column-start:style(background-color:#FFE1A0 !important;)
+
+wikipedia.org##table.infobox.biography.vcard:style(background-color: #FFE1A0 !important;)
+
+wikipedia.org##.vector-main-menu-container:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.vector-toc:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.vector-toc-pinned-container:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.vector-pinned-container:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.vector-sticky-pinned-container:style(background-color: #FFE1A0 !important;)
+
+wikipedia.org##.vector-dropdown-content:style(background-color: #FFE1A0 !important;)
+
+wikipedia.org##.oo-ui-popupWidget-popup:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.oo-ui-widget oo-ui-widget-enabled mw-echo-ui-sortedListWidget mw-echo-ui-notificationsListWidget:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.oo-ui-popupWidget-footer:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.oo-ui-widget.mw-echo-ui-notificationsListWidget:style(background-color: #FFE1A0 !important;)
+wikipedia.org##[class^="oo-ui-widget"]:style(background-color: #FFE1A0 !important;)
+
+
+wikipedia.org##.cdx-typeahead-search-menu-0:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.cdx-menu.cdx-menu--has-footer:style(background-color: #FFE1A0 !important;)
+
+
+
+wikipedia.org##.vector-sticky-header:style(background-color:#EBCB86 !important; outline:unset !important;)
+wikipedia.org##.lang-list-button:style(background-color:#EBCB86 !important; outline:unset !important;)
+wikipedia.org##.lang-list-content:style(background-color:#EBCB86 !important;)
+wikipedia.org##.mw-default-size:style(background-color:#EBCB86 !important;)
+wikipedia.org##figcaption:style(background-color:#EBCB86 !important;)
+wikipedia.org##input:style(background-color:#EBCB86 !important;)
+wikipedia.org##table:style(background-color:#EBCB86 !important;)
+wikipedia.org##[class^="module-shortcut"]:style(background-color: #EBCB86 !important;)
+wikipedia.org##[class^="quotebox"]:style(background-color: #EBCB86 !important;)
+wikipedia.org##[class^="sidebar-heading"]:style(background-color: #EBCB86 !important;)
+wikipedia.org##[class^="cdx-button"]:style(background-color: #EBCB86 !important;)
+wikipedia.org##[class^="sidebar-title"]:style(background-color: #EBCB86 !important;)
+wikipedia.org##[class^="thumbinner"]:style(background-color: #EBCB86 !important;)
+wikipedia.org##figure:style(background-color: #EBCB86 !important;)
+wikipedia.org##th:style(background-color: #EBCB86 !important;)
+wikipedia.org##[class^="thumb"]:style(background-color: #EBCB86 !important;)
+
+wikipedia.org##[class^="mw-file-description"]:style(background-color: #EBCB86 !important;)
