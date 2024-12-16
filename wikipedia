@@ -1,36 +1,45 @@
+! Aug 30, 2024 https://en.wikipedia.org
+wikipedia.org##.vector-body.ve-init-mw-desktopArticleTarget-targetContainer:style(width: 1060px !important; max-width: 1082px !important;)
+wikipedia.org##.mw-body-header.vector-page-titlebar:style(width: 1060px !important; max-width: 1082px !important;)
+wikipedia.org##.vector-page-toolbar:style(width: 1060px !important; max-width: 1082px !important;)
+
+
+
+
+
 en.wikipedia.org##.frb-country-IN.frb-rml-disabled.frb
 en.wikipedia.org##.frb-nag-link
 
-wikipedia.org##html:style(background-color:#FFE1A0 !important;)
-wikipedia.org##body:style(background-color:#FFE1A0 !important;)
-wikipedia.org##[class^="body"]:style(background-color: #FFE1A0 !important;)
+wikipedia.org##html:style(background-color:#EBD4A3 !important;)
+wikipedia.org##body:style(background-color:#EBD4A3 !important;)
+wikipedia.org##[class^="body"]:style(background-color: #EBD4A3 !important;)
 
-wikipedia.org##main:style(background-color:#FFE1A0 !important;)
-wikipedia.org##header:style(background-color:#FFE1A0 !important;)
+wikipedia.org##main:style(background-color:#EBD4A3 !important;)
+wikipedia.org##header:style(background-color:#EBD4A3 !important;)
 
-wikipedia.org##.mw-page-container:style(background-color:#FFE1A0 !important;)
-wikipedia.org##.vector-header-container:style(background-color:#FFE1A0 !important;)
-wikipedia.org##.vector-column-start:style(background-color:#FFE1A0 !important;)
+wikipedia.org##.mw-page-container:style(background-color:#EBD4A3 !important;)
+wikipedia.org##.vector-header-container:style(background-color:#EBD4A3 !important;)
+wikipedia.org##.vector-column-start:style(background-color:#EBD4A3 !important;)
 
-wikipedia.org##table.infobox.biography.vcard:style(background-color: #FFE1A0 !important;)
+wikipedia.org##table.infobox.biography.vcard:style(background-color: #EBD4A3 !important;)
 
-wikipedia.org##.vector-main-menu-container:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.vector-toc:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.vector-toc-pinned-container:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.vector-pinned-container:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.vector-sticky-pinned-container:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.vector-main-menu-container:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.vector-toc:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.vector-toc-pinned-container:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.vector-pinned-container:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.vector-sticky-pinned-container:style(background-color: #EBD4A3 !important;)
 
-wikipedia.org##.vector-dropdown-content:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.vector-dropdown-content:style(background-color: #EBD4A3 !important;)
 
-wikipedia.org##.oo-ui-popupWidget-popup:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.oo-ui-widget oo-ui-widget-enabled mw-echo-ui-sortedListWidget mw-echo-ui-notificationsListWidget:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.oo-ui-popupWidget-footer:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.oo-ui-widget.mw-echo-ui-notificationsListWidget:style(background-color: #FFE1A0 !important;)
-wikipedia.org##[class^="oo-ui-widget"]:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.oo-ui-popupWidget-popup:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.oo-ui-widget oo-ui-widget-enabled mw-echo-ui-sortedListWidget mw-echo-ui-notificationsListWidget:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.oo-ui-popupWidget-footer:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.oo-ui-widget.mw-echo-ui-notificationsListWidget:style(background-color: #EBD4A3 !important;)
+wikipedia.org##[class^="oo-ui-widget"]:style(background-color: #EBD4A3 !important;)
 
 
-wikipedia.org##.cdx-typeahead-search-menu-0:style(background-color: #FFE1A0 !important;)
-wikipedia.org##.cdx-menu.cdx-menu--has-footer:style(background-color: #FFE1A0 !important;)
+wikipedia.org##.cdx-typeahead-search-menu-0:style(background-color: #EBD4A3 !important;)
+wikipedia.org##.cdx-menu.cdx-menu--has-footer:style(background-color: #EBD4A3 !important;)
 
 
 
@@ -52,3 +61,11 @@ wikipedia.org##th:style(background-color: #EBCB86 !important;)
 wikipedia.org##[class^="thumb"]:style(background-color: #EBCB86 !important;)
 
 wikipedia.org##[class^="mw-file-description"]:style(background-color: #EBCB86 !important;)
+
+
+
+! Dec 16, 2024 https://www.wikipedia.org
+www.wikipedia.org##.app-badges.footer-sidebar > .footer-sidebar-content > .footer-sidebar-text
+
+! Sep 1, 2024 https://en.wikipedia.org
+en.wikipedia.org##.cbnnr-main
